@@ -1,0 +1,8 @@
+The Main.cpp file is used to test the SplayTree.h file.
+
+Methods that can be used in testing include:
+    insert(int data)........Insert an element into the tree
+    remove(int data)........Remove an element from the tree
+    splay(int data).........Splay an element to the root
+    contains(int data)......See if an element is in the tree
+    print().................Print the tree
